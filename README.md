@@ -36,9 +36,7 @@
 <a href="https://github.com/subhu499/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
 </a>
-<a href="https://github.com/subhu499/sheela-commerce-webiste-with-reactjs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=sheela-commerce-webiste-with-reactjs&theme=dark" />
-</a>
+
 </p>
 <br></br>
 <br></br>
