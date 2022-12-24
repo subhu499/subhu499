@@ -18,7 +18,9 @@
 <br>
 <br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499"/><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499" /></p>
 <br></br>
 <br></br>
 <br></br>
@@ -27,16 +29,4 @@
 <a href="https://github.com/subhu499/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
 </a>
-
 </p>
-<br></br>
-<br></br>
-<br></br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/preetiraj1m?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/preetiraj1m?new=1" /></a><a href="https://ko-fi.com/ko-fi.com/subhu4997"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/subhu499" /></a></p>
-<br></br>
-<br></br>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
