@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhu499&label=Profile%20views&color=0e75b6&style=flat" alt="subhu499" /> </p>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="img" align="right" width="400"/>
        I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
