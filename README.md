@@ -56,8 +56,8 @@
 <br></br>
 <br></br>
 <p>
-<a href="https://github.com/subhu499/30dayofJavascript">
+<!-- <a href="https://github.com/subhu499/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
-</a>
+</a> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499" alt="subhu499" /></p>
 </p>
