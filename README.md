@@ -6,10 +6,9 @@
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="img" align="right" width="400"/>
        I am student at MASAI SCHOOL
 
-- 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals : Contribute to Open Source projects
+- 🥅 2023 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/shubham-jha-61824512b/" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
