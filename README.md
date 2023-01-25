@@ -14,13 +14,14 @@
 - 🧗 I try to : Go beyond and push the bounds
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
+
 <br>
-<br>
- <h3 align="left"> <a href="http://subhu499.github.io">PORTFOLIO</a> </h3>
+ <h3 align="left"> <a href="https://subhu499.github.io/"><img href="https://subhu499.github.io/" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGM38jC3ht3R5tMTpKy3blkXYvYIq_g62Wn3aTVXWGWHfG0qIvj_ROXMt0UWt6YWDCg&usqp=CAU" align="center" alt="html5" width="185"> </a>     
+</h3>
          <p align="left">
              <a href="https://www.linkedin.com/in/shubham-jha-61824512b/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="80" /> - Shubham Jha </a>
        </p>
-<br>
+
 <br>
 <div>
   <h3 align="left">Languages and Tools:</h3>
