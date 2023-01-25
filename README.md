@@ -16,6 +16,10 @@
 
 <br>
 <br>
+ <h3 align="left"> <a href="http://subhu499.github.io">PORTFOLIO</a> </h3>
+         <p align="left">
+             <a href="https://www.linkedin.com/in/shubham-jha-61824512b/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="80" /> - Shubham Jha </a>
+       </p>
 <br>
 <br>
 <div>
@@ -61,5 +65,5 @@
 <!-- <a href="https://github.com/subhu499/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
 </a> -->
-  <p alignItem="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499" alt="subhu499" /></p>
+  <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499" alt="subhu499" /></p>
 </p>
