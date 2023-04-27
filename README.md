@@ -54,12 +54,20 @@
    <br/>
    <br/>
  </div> 
-<div style="align-items: center; justify-content: center; display=:flex; margin=auto; ">
+<!-- <div style="align-items: center; justify-content: center; display=:flex; margin=auto; ">
 <img  src="https://github-readme-stats.vercel.app/api?username=subhu499&show_icons=true&locale=en&theme=algolia" alt="subhu499" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499&show_icons=true&locale=en&theme=algolia" alt="subhu499" />
 
-</div>
+</div> -->
+
+   <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+
+  | Github Stats | Current Strek  |
+| --- | --- |
+| ![Nafisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhu499&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhu499&theme=tokyonight)](https://git.io/streak-stats) |
+
+
 <img align-items="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhu499&theme=react-dark&custom_title=Shubham%20Jha's%20contribution%20Graph&hide_border=true" />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
