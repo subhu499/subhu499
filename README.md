@@ -54,22 +54,13 @@
    <br/>
    <br/>
  </div> 
-<p>
-<!--  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499"/> -->
-<!--  <img align="left" src="https://github-readme-stats.vercel.app/api?username=subhu499&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subhu499" /></p> -->
-<!-- <br></br>
-<br></br>
-<br></br>
-<br></br> -->
-<p>
-<!-- <a href="https://github.com/subhu499/30dayofJavascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
-</a> -->
-  <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499" alt="subhu499" /></p>
-</p>
+<div style="align-items: center; justify-content: center; display=:flex; margin=auto; ">
+<img  src="https://github-readme-stats.vercel.app/api?username=subhu499&show_icons=true&locale=en&theme=algolia" alt="subhu499" />
 
-</p>
-<img  src="https://github-readme-activity-graph.cyclic.app/graph?username=subhu499&theme=react-dark&custom_title=Shubham%20Jha's%20contribution%20Graph&hide_border=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=subhu499&show_icons=true&locale=en&theme=algolia" alt="subhu499" />
+
+</div>
+<img align-items="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=subhu499&theme=react-dark&custom_title=Shubham%20Jha's%20contribution%20Graph&hide_border=true" />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
